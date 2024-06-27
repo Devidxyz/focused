@@ -2,7 +2,7 @@ export const WEBSITE_SUGGESTIONS: string[] = [
   'facebook.com',
   'instagram.com',
   'youtube.com',
-  'twitter.com',
+  'x.com',
   'reddit.com',
   'messenger.com',
   'tiktok.com',
